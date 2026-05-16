@@ -68,6 +68,12 @@ Po wyświetleniu wyniku i wizualizacji program pyta, czy wyznaczyć nową otoczk
 * Python 3.x
 * Biblioteki zewnętrzne: `matplotlib`, `pytest`
 
+Pobierz kod z repozytorium:
+
+```bash
+git clone https://github.com/Mrokus95/Geometry.git
+```
+
 Instalacja zależności:
 
 ```bash
