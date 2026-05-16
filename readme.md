@@ -9,7 +9,7 @@
       iloczynu wektorowego/testu orientacji.
 * **Franciszek Spyra** (Nr indeksu: 189809)
     * *Zadania:* Implementacja algorytmów Grahama i Quickhull.
-* **Mroczkowski Łukasz** (Nr indeksu: 189807)
+* **Łukasz Mroczkowski** (Nr indeksu: 189807)
     * *Zadania:* Optymalizacja i testy kodu źródłowego algorytmów. Współpraca nad dokumentacją.
 
 ---
