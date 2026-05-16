@@ -74,12 +74,6 @@ Pobierz kod z repozytorium:
 git clone https://github.com/Mrokus95/Geometry.git
 ```
 
-Instalacja zależności:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ### Instrukcja uruchomienia
